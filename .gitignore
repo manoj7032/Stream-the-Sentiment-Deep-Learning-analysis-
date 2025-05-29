@@ -1,0 +1,9 @@
+# Ignore large embedding file
+glove.6B.100d.txt
+# Prevent large files from being pushed
+*.h5
+*.zip
+*.tar.gz
+*.pt
+*.ckpt
+*.glove*

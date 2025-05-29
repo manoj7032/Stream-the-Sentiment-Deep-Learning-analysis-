@@ -1,0 +1,7 @@
+
+
+https://www.kaggle.com/code/freak360/youtube-comments-sentiment-analysis/input
+
+  0 represents negative 
+   1 represent neutral
+    2 represent positive 
