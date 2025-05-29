@@ -32,6 +32,8 @@ This project is a full-stack web application that performs **sentiment analysis 
 - **APIs**: YouTube Data API v3
 
 ---
+Download the following Glove and H5 files and place it in the root project folder. 
+Download link - https://drive.google.com/drive/folders/1jrn5CiZzkF1yWtmlD1Yaxr0b6nroM0Dy?usp=sharing
 
 ## Folder Structure
 
@@ -49,3 +51,5 @@ This project is a full-stack web application that performs **sentiment analysis 
 |-- comments.csv           # Dataset (already preprocessed)
 |-- templates/             # HTML templates (login, dashboard, etc.)
 |-- static/                # CSS, images, JS (if any)
+
+
