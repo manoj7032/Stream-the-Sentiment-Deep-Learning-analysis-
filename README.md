@@ -1,3 +1,6 @@
+
+Git repository link - https://github.com/manoj7032/Stream-the-Sentiment-Deep-Learning-analysis-.git
+
 # 🎯 Stream the Sentiment - Deep Learning analysis (Flask + BiLSTM)
 
 This project is a full-stack web application that performs **sentiment analysis on YouTube video comments** using deep learning models such as **Bi-LSTM, GRU, LSTM, and RNN**. It allows users to **analyze sentiment**, **view results**, and **compare models**, all through an interactive Flask-based dashboard.
